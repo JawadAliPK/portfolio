@@ -109,4 +109,6 @@ I'm currently seeking an iOS Developer position in Germany & I am living in Main
 * StoreKit
 * Optimized for iPhone and iPad
 * MVC
+* AVFoundation
+* Photos
 
