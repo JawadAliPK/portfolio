@@ -16,12 +16,12 @@ I'm currently seeking an iOS Developer position in Germany & I am living in Main
 </p>
 
 **Technologies**
-
 * Swift
 * Core Data
 * StoreKit
 * Optimized for iPhone and iPad
 * MVVM
+
 
 
 # [Gorillas: Grocery Delivery](https://apps.apple.com/de/app/gorillas-grocery-delivery/id1510225647)
@@ -37,11 +37,13 @@ I'm currently seeking an iOS Developer position in Germany & I am living in Main
 </p>
 
 **Technologies**
+* Swift
+* Push Notifications
+* APPLE PAY
+* Azure CI/CD
+* MVVM
 
-* Swift 💻
-* Push Notifications 🔔
-* APPLE PAY 💳
-* MVVM 🔨
+
 
 # CHEMOWAVE
 
@@ -56,12 +58,14 @@ I'm currently seeking an iOS Developer position in Germany & I am living in Main
 </p>
 
 **Technologies**
+* Swift
+* Core Data
+* StoreKit
+* Azure CI/CD
+* Optimized for iPhone and iPad
+* MVVM
 
-* Swift 💻
-* Core Data 💽
-* StoreKit 💳
-* Optimized for iPhone and iPad 📱
-* MVVM 🔨
+
 
 # [Erupt: News & Debate](https://apps.apple.com/us/app/erupt-news-debate/id1557200114)
 
@@ -73,10 +77,11 @@ I'm currently seeking an iOS Developer position in Germany & I am living in Main
 </p>
 
 **Technologies**
+* Swift
+* Push Notifications
+* MVVM
 
-* Swift 💻
-* Push Notifications 🔔
-* MVVM 🔨
+  
 
 # [FullyRaw by Kristina](https://apps.apple.com/us/app/fullyraw-by-kristina/id1351412313)
 
@@ -89,12 +94,11 @@ I'm currently seeking an iOS Developer position in Germany & I am living in Main
 </p>
 
 **Technologies**
-
-* Swift 💻
-* HealthKit ❤️‍🩹
-* Core Data 💽
-* Local Notifications 🔔
-* StoreKit 💳
-* Optimized for iPhone and iPad 📱
-* MVC 🔨
+* Swift
+* HealthKit 
+* Core Data
+* Local Notifications
+* StoreKit
+* Optimized for iPhone and iPad
+* MVC
 
