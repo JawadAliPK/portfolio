@@ -7,7 +7,7 @@ I'm currently seeking an iOS Developer position in Germany & I am living in Main
 # Champions Round App
 
 <p align="center">
-  <img width="200" alt="BaseBackground_2796x1290_1" src="https://user-images.githubusercontent.com/19569099/268294627-6d0e5a77-d4fb-43f7-b7aa-59f63d896d73.jpg" />
+  <img width="400" alt="BaseBackground_2796x1290_1" src="https://user-images.githubusercontent.com/19569099/268294627-6d0e5a77-d4fb-43f7-b7aa-59f63d896d73.jpg" />
   <img width="200" alt="BaseBackground_2796x1290_2" src="https://user-images.githubusercontent.com/19569099/268294633-b450426e-9955-479a-a4e5-e06c56e5b4ba.jpg" />
   <img width="200" alt="BaseBackground_2796x1290_3" src="https://user-images.githubusercontent.com/19569099/268294637-38c065bf-3689-41a1-8896-9d60b55ca138.jpg" />
   <img width="200" alt="BaseBackground_2796x1290_3" src="https://user-images.githubusercontent.com/19569099/268294640-ddb5ea91-813b-4b24-a4c2-617bdd720a45.jpg" />
