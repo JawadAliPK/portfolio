@@ -46,7 +46,7 @@ I'm currently seeking an iOS Developer position in Germany & I am living in Main
 # CHEMOWAVE
 
 <p align="center">
-  <img width="400" alt="BaseBackground_2796x1290_1" src="https://user-images.githubusercontent.com/19569099/273446889-cc6d3856-9ad6-4da4-b89c-dd1b7b913199.jpg" />
+  <img width="406" alt="BaseBackground_2796x1290_1" src="https://user-images.githubusercontent.com/19569099/273446889-cc6d3856-9ad6-4da4-b89c-dd1b7b913199.jpg" />
   <img width="200" alt="BaseBackground_2796x1290_2" src="https://user-images.githubusercontent.com/19569099/273446403-b014f455-563e-4c57-9766-945bc531563a.jpg" />
   <img width="200" alt="BaseBackground_2796x1290_3" src="https://user-images.githubusercontent.com/19569099/273446401-aa5ed99c-492b-4959-97f7-0414c0fd04a9.jpg" />
   <img width="200" alt="BaseBackground_2796x1290_4" src="https://user-images.githubusercontent.com/19569099/273446399-a3613165-2ee6-42c5-82bd-085d0dbf447a.jpg" />
