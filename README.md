@@ -4,7 +4,7 @@
 Hey there and welcome! 👋 I appreciate your interest in exploring my iOS projects. In this repository, you'll find a carefully curated selection of my recent work that showcases my skills and expertise. 
 I'm currently seeking an iOS Developer position in Germany & I am living in Mainz. I am willing to relocate in entire Germany 🇩🇪 or a Remote position.
 
-# Champions Round App
+# [Champions Round](https://apps.apple.com/us/app/champions-round/id1460675793)
 
 <p align="center">
   <img width="200" alt="BaseBackground_2796x1290_1" src="https://user-images.githubusercontent.com/19569099/268294627-6d0e5a77-d4fb-43f7-b7aa-59f63d896d73.jpg" />
@@ -17,14 +17,14 @@ I'm currently seeking an iOS Developer position in Germany & I am living in Main
 
 **Technologies**
 
-* Swift 💻
-* Core Data 💽
-* StoreKit 💳
-* Optimized for iPhone and iPad 📱
-* MVVM 🔨
+* Swift
+* Core Data
+* StoreKit
+* Optimized for iPhone and iPad
+* MVVM
 
 
-# GORILLAS
+# [Gorillas: Grocery Delivery](https://apps.apple.com/de/app/gorillas-grocery-delivery/id1510225647)
 
 <p align="center">
   <img width="200" alt="BaseBackground_2796x1290_1" src="https://user-images.githubusercontent.com/19569099/268954351-a0743340-39bd-4a45-b299-4add0146b404.jpeg" />
@@ -63,7 +63,7 @@ I'm currently seeking an iOS Developer position in Germany & I am living in Main
 * Optimized for iPhone and iPad 📱
 * MVVM 🔨
 
-# Erupt: News & Debate
+# [Erupt: News & Debate](https://apps.apple.com/us/app/erupt-news-debate/id1557200114)
 
 <p align="center">
   <img width="200" alt="BaseBackground_2796x1290_1" src="https://user-images.githubusercontent.com/19569099/269074905-8915c43d-56eb-4f91-a3b5-9ccd13a3af7c.png" />
@@ -78,7 +78,7 @@ I'm currently seeking an iOS Developer position in Germany & I am living in Main
 * Push Notifications 🔔
 * MVVM 🔨
 
-# FullyRaw
+# [FullyRaw by Kristina](https://apps.apple.com/us/app/fullyraw-by-kristina/id1351412313)
 
 <p align="center">
   <img width="200" alt="BaseBackground_2796x1290_1" src="https://user-images.githubusercontent.com/19569099/268949847-eac13ccb-a6e0-44b7-b659-41c3e364dc09.png" />
