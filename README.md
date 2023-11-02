@@ -2,7 +2,7 @@
 
 
 Hey there and welcome! 👋 I appreciate your interest in exploring my iOS projects. In this repository, you'll find a carefully curated selection of my recent work that showcases my skills and expertise. 
-I'm currently seeking an iOS Developer position in Germany & I am living in Mainz. I am willing to relocate in entire Germany 🇩🇪 or a Remote position.
+I'm currently seeking an iOS Developer position in the EU and especially Germany 🇩🇪. Currently, I am living in Mainz, Germany and I am willing to relocate or accept a Remote position.
 
 # [Champions Round](https://apps.apple.com/us/app/champions-round/id1460675793)
 
