@@ -6,6 +6,7 @@ I'm currently seeking an iOS Developer position in the EU and especially Germany
 
 
 # [Gorillas: Grocery Delivery](https://apps.apple.com/de/app/gorillas-grocery-delivery/id1510225647)
+[`📲 Available on the App Store`](https://apps.apple.com/de/app/gorillas-grocery-delivery/id1510225647)
 
 A fast groceries delivery app with Multi-Operations in Germany, France, USA, Netherlands, and UK. We have developed a Customer app, a Driver app, and a Merchert app for inventory management. It's updated to the latest Swift version  and refactoring a module with SwiftUI.
 
@@ -36,6 +37,7 @@ A fast groceries delivery app with Multi-Operations in Germany, France, USA, Net
 
 
 # [Champions Round](https://apps.apple.com/us/app/champions-round/id1460675793)
+[`📲 Available on the App Store`](https://apps.apple.com/us/app/champions-round/id1460675793)
 A new generation of sports entertainment app where a user can play individually on in a team, create contests, payout the earned cash, talk and chat with friends.
 
 <p align="center">
@@ -63,6 +65,7 @@ A new generation of sports entertainment app where a user can play individually 
 
 
 # CHEMOWAVE
+[`📲 Available on the App Store`](https://apps.apple.com/ca/app/chemowave-cancer-health-app/id1199851760)
 Free app for #cancer patients to track symptoms, medications & activities and get personal health insights.
 
 <p align="center">
@@ -88,6 +91,7 @@ Free app for #cancer patients to track symptoms, medications & activities and ge
 
 
 # [Erupt: News & Debate](https://apps.apple.com/us/app/erupt-news-debate/id1557200114)
+[`📲 Available on the App Store`](https://apps.apple.com/us/app/erupt-news-debate/id1557200114)
 Erupt is a livestream audio & video platform for passionate debate and free-flowing discussion among the voices of the future. At Erupt, we focus on information without indoctrination, providing a fresh new approach to discussing current events and issues. Anyone can request to be a speaker in our spirited debates surrounding some of the most pertinent issues facing our country today.
 
 <p align="center">
@@ -108,6 +112,7 @@ Erupt is a livestream audio & video platform for passionate debate and free-flow
   
 
 # [FullyRaw by Kristina](https://apps.apple.com/us/app/fullyraw-by-kristina/id1351412313)
+[`📲 Available on the App Store`](https://apps.apple.com/us/app/fullyraw-by-kristina/id1351412313)
 FullyRaw by Kristina is the ultimate guide to living a cleaner and healthier lifestyle through the consumption of organic raw foods. Offering over 300 recipes (including juices, smoothies, salads, desserts, and main dishes) with instructional videos, grocery shopping lists, challenges, educational videos, and exclusive content from Kristina! FullyRaw has everything you need to make living a fully raw lifestyle easy and enjoyable! Whether you are looking to be fully raw or just trying to get more fruits and vegetables in your diet, Kristina wants to help you get there!
 
 <p align="center">
