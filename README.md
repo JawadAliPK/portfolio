@@ -16,13 +16,18 @@ I'm currently seeking an iOS Developer position in Germany & I am living in Main
 </p>
 
 **Technologies**
-* Swift
+* Swift (UIKit & SwiftUI)
 * Core Data
+* Combine
 * StoreKit
 * MVVM
 * Fastlane
 * Push Notifications
+* Storyboard and Xibs
 * Used SwiftUI and Combine for one Module
+* Asyc/Await & Actor
+* Dynamic Localization
+* URLSession
 
 
 # [Gorillas: Grocery Delivery](https://apps.apple.com/de/app/gorillas-grocery-delivery/id1510225647)
@@ -40,16 +45,16 @@ I'm currently seeking an iOS Developer position in Germany & I am living in Main
 **Technologies**
 * Swift
 * Apple MapKit
-* Firebase
+* Firebase (Crashlytics, Auth)
 * CoreLocation
 * Push Notifications
-* APPLE PAY
+* APPLE PAY & 3rd party payment's
 * CoreData
 * Keychain
 * Azure CI/CD
 * MVVM
-* GoogleSignIn
-* FBSDKLoginKit
+* Operations Queue and GCD
+* Alamofire
 
 
 
@@ -88,6 +93,9 @@ I'm currently seeking an iOS Developer position in Germany & I am living in Main
 * Swift
 * Push Notifications
 * MVVM
+* AVFoundation
+* Agora
+* Storyboard and Xibs
 
   
 
