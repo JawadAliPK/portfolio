@@ -4,7 +4,39 @@
 Hey there and welcome! 👋 I appreciate your interest in exploring my iOS projects. In this repository, you'll find a carefully curated selection of my recent work that showcases my skills and expertise. 
 I'm currently seeking an iOS Developer position in the EU and especially Germany 🇩🇪. Currently, I am living in Mainz, Germany and I am willing to relocate or accept a Remote position.
 
+
+# [Gorillas: Grocery Delivery](https://apps.apple.com/de/app/gorillas-grocery-delivery/id1510225647)
+
+A fast groceries delivery app with Multi-Operations in Germany, France, USA, Netherlands, and UK. We have developed a Customer app, a Driver app, and a Merchert app for inventory management. It's updated to the latest Swift version  and refactoring a module with SwiftUI.
+
+<p align="center">
+  <img width="200" alt="BaseBackground_2796x1290_1" src="https://user-images.githubusercontent.com/19569099/268954351-a0743340-39bd-4a45-b299-4add0146b404.jpeg" />
+  <img width="200" alt="BaseBackground_2796x1290_2" src="https://user-images.githubusercontent.com/19569099/268954357-8abd3e00-6b1e-4992-ac66-b501e5f00a3c.jpeg" />
+  <img width="200" alt="BaseBackground_2796x1290_3" src="https://user-images.githubusercontent.com/19569099/268954361-4dc2a807-4055-4df6-8a42-5e851835b5a0.jpeg" />
+  <img width="200" alt="BaseBackground_2796x1290_4" src="https://user-images.githubusercontent.com/19569099/268954363-f34171bc-034d-476a-9634-3854ccea3388.jpeg" />
+  <img width="200" alt="BaseBackground_2796x1290_5" src="https://user-images.githubusercontent.com/19569099/268954364-d64b17f0-b264-47a0-b5dc-b4e69402104a.jpeg" />
+  <img width="200" alt="BaseBackground_2796x1290_6" src="https://user-images.githubusercontent.com/19569099/268954367-9cf7b45e-dedd-4971-bda5-cdffa914bf8f.jpeg" />
+  <img width="200" alt="BaseBackground_2796x1290_7" src="https://user-images.githubusercontent.com/19569099/268954371-ca83db9b-3148-4017-b94c-88a7eccc0624.jpeg" />
+</p>
+
+**Technologies**
+* Swift (UIKit & SwiftUI)
+* Apple MapKit
+* Firebase (Crashlytics, Auth)
+* CoreLocation
+* Push Notifications
+* APPLE PAY & 3rd party payment's
+* CoreData
+* Keychain
+* Azure CI/CD
+* MVVM
+* Asyc/Await & Actor
+* Alamofire
+
+
+
 # [Champions Round](https://apps.apple.com/us/app/champions-round/id1460675793)
+A new generation of sports entertainment app where a user can play individually on in a team, create contests, payout the earned cash, talk and chat with friends.
 
 <p align="center">
   <img width="200" alt="BaseBackground_2796x1290_1" src="https://user-images.githubusercontent.com/19569099/268294627-6d0e5a77-d4fb-43f7-b7aa-59f63d896d73.jpg" />
@@ -25,40 +57,13 @@ I'm currently seeking an iOS Developer position in the EU and especially Germany
 * Push Notifications
 * Storyboard and Xibs
 * Used SwiftUI and Combine for one Module
-* Asyc/Await & Actor
 * Dynamic Localization
 * URLSession
-
-
-# [Gorillas: Grocery Delivery](https://apps.apple.com/de/app/gorillas-grocery-delivery/id1510225647)
-
-<p align="center">
-  <img width="200" alt="BaseBackground_2796x1290_1" src="https://user-images.githubusercontent.com/19569099/268954351-a0743340-39bd-4a45-b299-4add0146b404.jpeg" />
-  <img width="200" alt="BaseBackground_2796x1290_2" src="https://user-images.githubusercontent.com/19569099/268954357-8abd3e00-6b1e-4992-ac66-b501e5f00a3c.jpeg" />
-  <img width="200" alt="BaseBackground_2796x1290_3" src="https://user-images.githubusercontent.com/19569099/268954361-4dc2a807-4055-4df6-8a42-5e851835b5a0.jpeg" />
-  <img width="200" alt="BaseBackground_2796x1290_4" src="https://user-images.githubusercontent.com/19569099/268954363-f34171bc-034d-476a-9634-3854ccea3388.jpeg" />
-  <img width="200" alt="BaseBackground_2796x1290_5" src="https://user-images.githubusercontent.com/19569099/268954364-d64b17f0-b264-47a0-b5dc-b4e69402104a.jpeg" />
-  <img width="200" alt="BaseBackground_2796x1290_6" src="https://user-images.githubusercontent.com/19569099/268954367-9cf7b45e-dedd-4971-bda5-cdffa914bf8f.jpeg" />
-  <img width="200" alt="BaseBackground_2796x1290_7" src="https://user-images.githubusercontent.com/19569099/268954371-ca83db9b-3148-4017-b94c-88a7eccc0624.jpeg" />
-</p>
-
-**Technologies**
-* Swift
-* Apple MapKit
-* Firebase (Crashlytics, Auth)
-* CoreLocation
-* Push Notifications
-* APPLE PAY & 3rd party payment's
-* CoreData
-* Keychain
-* Azure CI/CD
-* MVVM
 * Operations Queue and GCD
-* Alamofire
-
 
 
 # CHEMOWAVE
+Free app for #cancer patients to track symptoms, medications & activities and get personal health insights.
 
 <p align="center">
   <img width="405" alt="BaseBackground_2796x1290_1" src="https://user-images.githubusercontent.com/19569099/273446889-cc6d3856-9ad6-4da4-b89c-dd1b7b913199.jpg" />
@@ -74,13 +79,16 @@ I'm currently seeking an iOS Developer position in the EU and especially Germany
 * Swift
 * Core Data
 * Health Kit
-* Azure CI/CD
 * Optimized for iPhone and iPad
 * MVC
-
+* URLSession
+* Operations Queue and GCD
+* Push Notifications
+* Storyboard and Xibs
 
 
 # [Erupt: News & Debate](https://apps.apple.com/us/app/erupt-news-debate/id1557200114)
+Erupt is a livestream audio & video platform for passionate debate and free-flowing discussion among the voices of the future. At Erupt, we focus on information without indoctrination, providing a fresh new approach to discussing current events and issues. Anyone can request to be a speaker in our spirited debates surrounding some of the most pertinent issues facing our country today.
 
 <p align="center">
   <img width="200" alt="BaseBackground_2796x1290_1" src="https://user-images.githubusercontent.com/19569099/269074905-8915c43d-56eb-4f91-a3b5-9ccd13a3af7c.png" />
@@ -100,6 +108,7 @@ I'm currently seeking an iOS Developer position in the EU and especially Germany
   
 
 # [FullyRaw by Kristina](https://apps.apple.com/us/app/fullyraw-by-kristina/id1351412313)
+FullyRaw by Kristina is the ultimate guide to living a cleaner and healthier lifestyle through the consumption of organic raw foods. Offering over 300 recipes (including juices, smoothies, salads, desserts, and main dishes) with instructional videos, grocery shopping lists, challenges, educational videos, and exclusive content from Kristina! FullyRaw has everything you need to make living a fully raw lifestyle easy and enjoyable! Whether you are looking to be fully raw or just trying to get more fruits and vegetables in your diet, Kristina wants to help you get there!
 
 <p align="center">
   <img width="200" alt="BaseBackground_2796x1290_1" src="https://user-images.githubusercontent.com/19569099/268949847-eac13ccb-a6e0-44b7-b659-41c3e364dc09.png" />
