@@ -8,7 +8,7 @@ I'm currently seeking an iOS Developer position in the EU and especially Germany
 # [Gorillas: Grocery Delivery](https://apps.apple.com/de/app/gorillas-grocery-delivery/id1510225647)
 [`📲 Available on the App Store`](https://apps.apple.com/de/app/gorillas-grocery-delivery/id1510225647)
 
-A fast groceries delivery app with Multi-Operations in Germany, France, USA, Netherlands, and UK. We have developed a Customer app, a Driver app, and a Merchert app for inventory management. It's updated to the latest Swift version  and refactoring a module with SwiftUI.
+A fast groceries delivery app with Multi-Operations in Germany, France, USA, Netherlands, and UK. We have developed a Customer app, a Driver app, and a Merchert app for inventory management. I have refactored old code base from Objective-C to the latest Swift version and also refactored a module with SwiftUI.
 
 <p align="center">
   <img width="200" alt="BaseBackground_2796x1290_1" src="https://user-images.githubusercontent.com/19569099/268954351-a0743340-39bd-4a45-b299-4add0146b404.jpeg" />
